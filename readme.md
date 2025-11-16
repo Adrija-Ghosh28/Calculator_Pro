@@ -1,7 +1,7 @@
 # Calculator Trial v1.0
 
 
-Hello! \n
+Hello! <br>
 Welcome to calculator trial :D
 
 
