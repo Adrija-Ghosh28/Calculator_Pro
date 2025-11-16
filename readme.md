@@ -1,9 +1,9 @@
 # Calculator Trial v1.0
 
-<p style="text-align:center;">
-Hello!
+
+Hello! \n
 Welcome to calculator trial :D
-</p>
+
 
 ```bash
 pip install PyQt6
